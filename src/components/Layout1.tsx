@@ -1,6 +1,7 @@
 import React from "react";
 import { View, StyleSheet, SafeAreaView } from "react-native";
 
+
 const Layout3 = () => {
     return (
         <SafeAreaView style = {styles.wrappper}>
