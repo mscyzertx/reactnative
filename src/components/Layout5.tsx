@@ -40,32 +40,32 @@ const styles = StyleSheet.create({
     box1_1:{
         height: 100,
         marginTop:10,
-        backgroundColor: "#ededed"
+        backgroundColor: "#6495ED"
     },
 
     box1_2:{
         height: 100,
         marginTop:10,
-        backgroundColor: "#ededed"
+        backgroundColor: "#6495ED"
     },
 
     box1_3:{
 
         height: 100,
         marginTop:10,
-        backgroundColor: "#ededed"
+        backgroundColor: "#6495ED"
     },
 
     box1_4:{
         height: 100,
         marginTop:10,
-        backgroundColor: "#ededed"
+        backgroundColor: "#6495ED"
     },
 
     box2_1:{
         height: 60,
         width: 60,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
         alignSelf: 'flex-end',
 
     },

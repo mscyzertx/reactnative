@@ -42,13 +42,13 @@ const styles = StyleSheet.create({
     box1_1:{
         flex:1,
         marginTop:10,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
     },
 
     box2_1:{
         height: 60,
         width: 60,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
         
 
     },
@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     box2_2:{
         height: 60,
         width: 60,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
         paddingLeft: 10,
       
 

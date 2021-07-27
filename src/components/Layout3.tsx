@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
         height: 50,
         width: 50,
         marginTop:5,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
         alignSelf: 'flex-end'
     },
 
@@ -48,21 +48,21 @@ const styles = StyleSheet.create({
         flex: 0.5,
         height: 40,
         marginTop:10,
-        backgroundColor: "#ededed"
+        backgroundColor: "#6495ED"
        
     },
 
     box2_1:{
         height: 80,
         marginTop:5,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
 
     },
 
     box2_2:{
         height: 40,
         marginTop:10,
-        backgroundColor: '#ededed'
+        backgroundColor: '#6495ED'
        
     },
 

@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
         height: 100,
         width: 100,
         marginTop:5,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
     },
 
 
@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         height: 60,
         width: 60,
         marginTop:5,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
         alignSelf: 'flex-end'
 
     },

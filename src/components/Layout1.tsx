@@ -1,8 +1,7 @@
 import React from "react";
 import { View, StyleSheet, SafeAreaView } from "react-native";
 
-
-const Layout3 = () => {
+const Layout1 = () => {
     return (
         <SafeAreaView style = {styles.wrappper}>
             <View style ={[styles.boxStyle, styles.box1]}>
@@ -30,7 +29,7 @@ const styles = StyleSheet.create({
 
     box1:{
         flex: 1,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
 
     },
 
@@ -41,7 +40,7 @@ const styles = StyleSheet.create({
      box2_1:{
         height: 40,
         marginTop:5,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
 
     },
 
@@ -53,17 +52,17 @@ const styles = StyleSheet.create({
     box3_1:{
         height: 40,
         marginTop:5,
-        backgroundColor: "#ededed",
+        backgroundColor: "#6495ED",
 
     },
 
     box3_2:{
         height: 40,
         marginTop:10,
-        backgroundColor: '#ededed'
+        backgroundColor: '#6495ED'
        
     },
 
 })
 
-export default Layout3;
+export default Layout1;

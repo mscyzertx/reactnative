@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
 
     defaultContainer:{
         flex:1,
-        backgroundColor:"#ededed"
+        backgroundColor:"#6495ED"
     }
 
 })
